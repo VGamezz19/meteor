@@ -1,0 +1,7 @@
+Turorial oficial METEOR orientado a blaze
+
+Para iniciar e proyecto meteor. Tenemos que redirigirnos por Terminal a la ubicacion del proyecto.
+Despues insertar el comando "meteor".
+
+Para entrar dentro de la base de datos de mongo. Hemos de entrar por Terminal al proyecto y insertar
+el comando "meteor mongo"
